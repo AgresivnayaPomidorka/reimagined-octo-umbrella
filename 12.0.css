@@ -1,0 +1,24 @@
+.h{
+	font-style: italic;
+	font-size: x-large;
+	text-align: left;
+	font-family: cursive;
+	font-weight: bolder;
+}
+#t{
+	font-family: cursive;
+	border: 1px solid #333; /* Рамка */
+    display: inline-block;
+    padding: 5px 15px; /* Поля */
+    text-decoration: none; /* Убираем подчёркивание */
+    color: #000; /* Цвет текста */
+}
+.et{
+    font-family: cursive;
+    text-align: left;
+    font-weight: bolder;
+}
+body{
+height: 200px;
+background: radial-gradient(40% 50%, #FAECD5, #CAE4D8);
+}
